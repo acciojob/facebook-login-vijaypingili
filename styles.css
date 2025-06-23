@@ -24,6 +24,14 @@ form {
 	gap:10px;
 }
 
+#email {
+	
+}
+
+#password {
+	
+}
+
 input {
 	border:1px solid #ccc;
 	border-radius: 5px;
@@ -45,4 +53,8 @@ a {
 
 .signup {
 	background-color:#42b72a;
+	color:white;
+	border:none;
+	padding:10px;
+	border-radius:5px;
 }
